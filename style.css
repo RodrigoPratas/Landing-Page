@@ -1,8 +1,6 @@
-.body{
+.body {}
 
-}
-
-.cabeçalho{
+.cabeçalho {
     background-color: #1f2937;
     display: flex;
     padding-bottom: 50px;
@@ -10,19 +8,19 @@
     flex-direction: column;
 }
 
-.header{
+.header {
     height: 100px;
     display: flex;
     flex-direction: row;
 }
 
-.headerlogo{
+.headerlogo {
     font-size: 24px;
     color: #F9FAF8;
     align-items: flex-start;
 }
 
-.headerlinks{
+.headerlinks {
     font-size: 18px;
     color: #e5e7eb;
     display: flex;
@@ -30,89 +28,63 @@
     justify-content: right;
 }
 
-.head{
+.head {}
 
-}
-
-.headmain{
+.headmain {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
 }
 
-.headsecond{
+.headsecond {
     font-size: 18px;
     color: #e5e7eb;
 }
 
-.headbutton{
+.headbutton {}
 
-}
+.headimage {}
 
-.headimage{
+.info {}
 
-}
-
-.info{
-
-}
-
-.infotitle{
+.infotitle {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
 }
 
-.infoblocks{
+.infoblocks {}
 
-}
+.info1 {}
 
-.info1{
+.info2 {}
 
-}
+.info3 {}
 
-.info2{
+.info4 {}
 
-}
-
-.info3{
-
-}
-
-.info4{
-
-}
-
-.InspQuote{
+.InspQuote {
     background-color: #E5E7EB;
 }
 
-.insptext{
+.insptext {
     font-size: 36px;
     font-style: light italic;
     color: #1F2937;
 }
 
-.inspauthor{
+.inspauthor {}
 
-}
+.add {}
 
-.add{
+.addtext {}
 
-}
+.addtitle {}
 
-.addtext{
-
-}
-
-.addtitle{
-
-}
-
-.addbutton{
+.addbutton {
     color: #3882f6;
 }
 
-.footer{
+.footer {
     background-color: #1f2937;
 }
