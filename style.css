@@ -2,6 +2,7 @@
 
 .cabeçalho {
     background-color: #1f2937;
+    border-color: #1F2937;
     display: flex;
     padding-bottom: 50px;
     padding-left: 100px;
@@ -12,6 +13,7 @@
     height: 100px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .headerlogo {
@@ -23,9 +25,9 @@
 .headerlinks {
     font-size: 18px;
     color: #e5e7eb;
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
-    justify-content: right;
+    align-self: flex-end;
 }
 
 .head {}
