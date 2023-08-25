@@ -55,7 +55,10 @@
     color: #1f2937;
 }
 
-.infoblocks {}
+.infoblocks {
+    display: inline-block;
+    float: left;
+}
 
 .info1 {}
 
